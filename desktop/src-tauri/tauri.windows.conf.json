@@ -1,0 +1,9 @@
+{
+  "bundle": {
+    "resources": {
+      "../../dist": "dist",
+      "../../data": "data",
+      "binaries/node.exe": "node.exe"
+    }
+  }
+}
